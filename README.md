@@ -1,2 +1,2 @@
-# A Repo for Python Projects
+# python_projects
 A Repo for Python Projects
