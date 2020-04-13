@@ -1,4 +1,5 @@
 import random
+import time
 
 def intro():
     print("You wake up in a Haze. You see a that you are in a bedroom. You pick yourself up and Notice there are Two Doors to exit the Room",end='')
@@ -48,4 +49,5 @@ elif (a != b):
     else :
         print("Wrong !!")
         Lose()
+time.sleep(15)
 input()
